@@ -158,7 +158,7 @@ export const mockData = {
       ]
     }
   ],
-  "title": "猫猫导航🐱",
+  "title": "鼠族导航",
   "search": "bing",
   "icp": ""
 }
