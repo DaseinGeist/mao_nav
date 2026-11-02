@@ -28,27 +28,6 @@ export const mockData = {
           "icon": "https://github.com/zyycn/codex-proxy-rs/raw/main/frontend/public/favicon.svg"
         },
         {
-          "id": "site-1793179809326",
-          "name": "AxonHub\t",
-          "url": "https://axonhub.geist.qzz.io",
-          "description": "",
-          "icon": "https://avatars.githubusercontent.com/u/231043908?s=60&v=4"
-        },
-        {
-          "id": "site-1793164833774",
-          "name": "H Octopus",
-          "url": "http://43.136.115.57:8984/",
-          "description": "个人AI聚合网关",
-          "icon": "https://www.faviconextractor.com/favicon/octopus.geist.qzz.io"
-        },
-        {
-          "id": "site-1793179974786",
-          "name": " B Octopus",
-          "url": "http://43.136.115.57:48234",
-          "description": "",
-          "icon": "https://github.com/bestruirui/octopus/raw/master/web/public/logo.svg"
-        },
-        {
           "id": "site-1793179855986",
           "name": "Oracle Octopus",
           "url": "https://octopus.geist.qzz.io",
@@ -96,13 +75,6 @@ export const mockData = {
           "url": "http://43.136.115.57:9000/webgui",
           "description": "",
           "icon": "https://avatars.githubusercontent.com/u/65011256?s=200&v=4"
-        },
-        {
-          "id": "site-1793180526225",
-          "name": "CCLoad\t",
-          "url": "http://43.136.115.57:38261",
-          "description": "",
-          "icon": ""
         },
         {
           "id": "site-1793180665009",
@@ -222,6 +194,13 @@ export const mockData = {
           "url": "https://smailpro.com/",
           "description": "",
           "icon": "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x_r7.png"
+        },
+        {
+          "id": "site-1793637716542",
+          "name": "Onessh",
+          "url": "https://onessh.geist.de5.net/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
