@@ -12,6 +12,27 @@ export const mockData = {
           "url": "http://192.168.3.1/cgi-bin/luci/admin/services/openclash",
           "description": "",
           "icon": "https://raw.githubusercontent.com/vernesong/OpenClash/dev/img/logo.png"
+        },
+        {
+          "id": "site-1793179855986",
+          "name": "Oracle Octopus",
+          "url": "https://octopus.geist.qzz.io",
+          "description": "",
+          "icon": "https://github.com/bestruirui/octopus/raw/master/web/public/logo.svg"
+        },
+        {
+          "id": "site-1793182125080",
+          "name": "cloudpaste",
+          "url": "https://front.cloudpaste.xyz/",
+          "description": "",
+          "icon": "https://camo.githubusercontent.com/3db31bcd32e618a98b3b4f68821b2637c43a06ada715204ac30347baf104e626/68747470733a2f2f696d672e69636f6e73382e636f6d2f6475736b2f3130302f70617374652e706e67"
+        },
+        {
+          "id": "site-1793180710268",
+          "name": "Sublink Pro\t",
+          "url": "http://158.180.75.203:8000",
+          "description": "",
+          "icon": "https://github.com/ZeroDeng01/sublinkPro/raw/main/webs/src/assets/images/logo.svg"
         }
       ]
     },
@@ -21,13 +42,6 @@ export const mockData = {
       "name": "工具",
       "order": 1,
       "sites": [
-        {
-          "id": "site-1793179855986",
-          "name": "Oracle Octopus",
-          "url": "https://octopus.geist.qzz.io",
-          "description": "",
-          "icon": "https://github.com/bestruirui/octopus/raw/master/web/public/logo.svg"
-        },
         {
           "id": "site-1793179692222",
           "name": "Codex Proxy RS",
@@ -76,20 +90,6 @@ export const mockData = {
           "url": "https://mcphub.geist.de5.net",
           "description": "",
           "icon": ""
-        },
-        {
-          "id": "site-1793180710268",
-          "name": "Sublink Pro\t",
-          "url": "http://158.180.75.203:8000",
-          "description": "",
-          "icon": "https://github.com/ZeroDeng01/sublinkPro/raw/main/webs/src/assets/images/logo.svg"
-        },
-        {
-          "id": "site-1793182125080",
-          "name": "cloudpaste",
-          "url": "https://front.cloudpaste.xyz/",
-          "description": "",
-          "icon": "https://camo.githubusercontent.com/3db31bcd32e618a98b3b4f68821b2637c43a06ada715204ac30347baf104e626/68747470733a2f2f696d672e69636f6e73382e636f6d2f6475736b2f3130302f70617374652e706e67"
         },
         {
           "id": "site-1793182142585",
@@ -142,18 +142,11 @@ export const mockData = {
       "order": 2,
       "sites": [
         {
-          "id": "cloudflare",
-          "name": "Cloudflare",
-          "url": "https://www.cloudflare.com",
-          "description": "全球CDN和网络安全服务",
-          "icon": "/sitelogo/www.cloudflare.com.ico"
-        },
-        {
-          "id": "tencent-cloud",
-          "name": "腾讯云",
-          "url": "https://cloud.tencent.com",
-          "description": "腾讯云计算服务",
-          "icon": "/sitelogo/cloud.tencent.com.ico"
+          "id": "site-1793182085332",
+          "name": "哔哩哔哩",
+          "url": "https://www.bilibili.com/",
+          "description": "",
+          "icon": "https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/bilibili-text.png"
         },
         {
           "id": "site-1793164998458",
@@ -163,11 +156,11 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/halowebui.geist.qzz.io"
         },
         {
-          "id": "site-1793182085332",
-          "name": "哔哩哔哩",
-          "url": "https://www.bilibili.com/",
+          "id": "site-1793182164681",
+          "name": "夸克网盘",
+          "url": "https://pan.quark.cn/list#/video/709fb431a5a3406ea2709c8f6a72853b",
           "description": "",
-          "icon": "https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/bilibili-text.png"
+          "icon": "https://g.alicdn.com/quark-cloud-drive/quark-cloud-drive-static-page/0.1.78/4c6c007286bf1936786b.png"
         },
         {
           "id": "site-1793182107790",
@@ -175,13 +168,6 @@ export const mockData = {
           "url": "https://gmail.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/gmail.com"
-        },
-        {
-          "id": "site-1793182164681",
-          "name": "夸克网盘",
-          "url": "https://pan.quark.cn/list#/video/709fb431a5a3406ea2709c8f6a72853b",
-          "description": "",
-          "icon": "https://g.alicdn.com/quark-cloud-drive/quark-cloud-drive-static-page/0.1.78/4c6c007286bf1936786b.png"
         }
       ]
     },
@@ -196,13 +182,6 @@ export const mockData = {
           "name": "Linux.do",
           "url": "https://linux.do",
           "description": "Linux与开源技术社区",
-          "icon": "/sitelogo/linux.do.ico"
-        },
-        {
-          "id": "linux-do",
-          "name": "Linux.do",
-          "url": "https://linux.do",
-          "description": "Linux技术社区，Peace and Love",
           "icon": "/sitelogo/linux.do.ico"
         }
       ]
