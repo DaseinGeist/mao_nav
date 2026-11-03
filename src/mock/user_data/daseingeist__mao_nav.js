@@ -23,7 +23,7 @@ export const mockData = {
         {
           "id": "site-1793182125080",
           "name": "cloudpaste",
-          "url": "https://front.cloudpaste.xyz/",
+          "url": "https://front.lth.de5.net/",
           "description": "",
           "icon": "https://camo.githubusercontent.com/3db31bcd32e618a98b3b4f68821b2637c43a06ada715204ac30347baf104e626/68747470733a2f2f696d672e69636f6e73382e636f6d2f6475736b2f3130302f70617374652e706e67"
         },
