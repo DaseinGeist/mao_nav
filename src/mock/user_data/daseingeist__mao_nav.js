@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://wxgame.top/android-games/?sort=hot",
           "description": "",
           "icon": "https://wxgame.top/"
+        },
+        {
+          "id": "site-1793709742749",
+          "name": "rag-agent",
+          "url": "https://rag-agent.dafulitu.workers.dev/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
