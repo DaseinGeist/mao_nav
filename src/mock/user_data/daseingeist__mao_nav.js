@@ -33,6 +33,13 @@ export const mockData = {
           "url": "http://158.180.75.203:8000",
           "description": "",
           "icon": "https://github.com/ZeroDeng01/sublinkPro/raw/main/webs/src/assets/images/logo.svg"
+        },
+        {
+          "id": "site-1793697640238",
+          "name": "万象游戏",
+          "url": "https://wxgame.top/android-games/?sort=hot",
+          "description": "",
+          "icon": "https://wxgame.top/"
         }
       ]
     },
