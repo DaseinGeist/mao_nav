@@ -47,6 +47,13 @@ export const mockData = {
           "url": "https://rag-agent.dafulitu.workers.dev/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1793891832971",
+          "name": "OneFrog",
+          "url": "https://onefrog.geist.qzz.io/",
+          "description": "",
+          "icon": "https://onefrog.geist.qzz.io/"
         }
       ]
     },
