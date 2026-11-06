@@ -68,6 +68,13 @@ export const mockData = {
           "url": "https://omc.geist.qzz.io/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1793940025073",
+          "name": "腾讯云控制台",
+          "url": "https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D1&rid=1&id=lhins-04nf5gx1&tab=firewall",
+          "description": "",
+          "icon": ""
         }
       ]
     },
