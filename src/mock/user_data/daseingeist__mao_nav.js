@@ -54,6 +54,20 @@ export const mockData = {
           "url": "https://onefrog.geist.qzz.io/",
           "description": "",
           "icon": "https://onefrog.geist.qzz.io/"
+        },
+        {
+          "id": "site-1793939671572",
+          "name": "Koishi",
+          "url": "https://koishi.geist.qzz.io/",
+          "description": "",
+          "icon": "https://koishi.geist.qzz.io/"
+        },
+        {
+          "id": "site-1793939694064",
+          "name": "OMC",
+          "url": "https://omc.geist.qzz.io/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
