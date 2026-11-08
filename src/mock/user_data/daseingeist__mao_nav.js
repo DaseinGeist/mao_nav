@@ -291,6 +291,56 @@ export const mockData = {
           "icon": ""
         }
       ]
+    },
+    {
+      "id": "category-1794158098224",
+      "icon": "🌐",
+      "name": "Gemini-2-Api",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1794158339576",
+          "name": "Gemini Business2API",
+          "url": "https://gemini.geist.qzz.io/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1794158187263",
+          "name": "Gemi2Api-Server",
+          "url": "https://github.com/zhiyu1998/Gemi2Api-Server",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1794158215718",
+          "name": "Gemini-FastAPI",
+          "url": "https://github.com/Nativu5/Gemini-FastAPI",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1794158241082",
+          "name": "Gemini-web2api",
+          "url": "https://github.com/qssn70/gemini-web2api",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1794158265012",
+          "name": "Gemini-API",
+          "url": "https://github.com/HanaokaYuzu/Gemini-API",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1794158278778",
+          "name": "Gemini-web2api-argon",
+          "url": "https://github.com/zinda2000/gemini-web2api-argon",
+          "description": "",
+          "icon": ""
+        }
+      ]
     }
   ],
   "title": "猫猫导航🐱",
