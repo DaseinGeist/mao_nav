@@ -75,6 +75,13 @@ export const mockData = {
           "url": "https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D1&rid=1&id=lhins-04nf5gx1&tab=firewall",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1794145770506",
+          "name": "0刀卡",
+          "url": "https://wzyp.cn/item/4y3hof?utm_source=priceai&utm_medium=card_offer&utm_campaign=priceai_card_shop&utm_content=id-jg4481",
+          "description": "",
+          "icon": ""
         }
       ]
     },
