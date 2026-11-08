@@ -39,42 +39,42 @@ export const mockData = {
           "name": "万象游戏",
           "url": "https://wxgame.top/android-games/?sort=hot",
           "description": "",
-          "icon": "https://wxgame.top/"
+          "icon": "https://wxgame.top/wp-content/uploads/2026/10/new_logo.png"
         },
         {
           "id": "site-1793709742749",
           "name": "rag-agent",
           "url": "https://rag-agent.dafulitu.workers.dev/",
           "description": "",
-          "icon": ""
+          "icon": "https://datawhalechina.github.io/all-in-rag/logo.svg"
         },
         {
           "id": "site-1793891832971",
           "name": "OneFrog",
           "url": "https://onefrog.geist.qzz.io/",
           "description": "",
-          "icon": "https://onefrog.geist.qzz.io/"
+          "icon": "https://github.com/llc370219/onefrog/raw/main/web/public/assets/onefrog-logo-readme.png"
         },
         {
           "id": "site-1793939671572",
           "name": "Koishi",
           "url": "https://koishi.geist.qzz.io/",
           "description": "",
-          "icon": "https://koishi.geist.qzz.io/"
+          "icon": "https://ts4.tc.mm.bing.net/th/id/OIP-C.m2c0rYnLrP-AaQutXnqYdgAAAA?w=108&h=108&c=1&bgcl=3bb589&r=0&o=7&dpr=2&pid=ImgRC&rm=3"
         },
         {
           "id": "site-1793939694064",
           "name": "OMC",
           "url": "https://omc.geist.qzz.io/",
           "description": "",
-          "icon": ""
+          "icon": "https://github.com/WizisCool/oh-my-cpa/raw/main/web/src/assets/brand/omc-wordmark-light.svg#gh-light-mode-only"
         },
         {
           "id": "site-1793940025073",
           "name": "腾讯云控制台",
           "url": "https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D1&rid=1&id=lhins-04nf5gx1&tab=firewall",
           "description": "",
-          "icon": ""
+          "icon": "https://tse4-mm.cn.bing.net/th/id/OIP-C.j-dC4G5tU6Wm4s4ApS94kAHaHa?w=175&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
         },
         {
           "id": "site-1794145770506",
@@ -88,7 +88,7 @@ export const mockData = {
           "name": "Ikun",
           "url": "https://api.ikuncode.ai/wallet",
           "description": "",
-          "icon": ""
+          "icon": "https://i.mji.rip/2026/02/13/89608547b83c501429c0b258de08257b.jpeg"
         }
       ]
     },
