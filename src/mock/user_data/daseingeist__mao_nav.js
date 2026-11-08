@@ -82,6 +82,13 @@ export const mockData = {
           "url": "https://wzyp.cn/item/4y3hof?utm_source=priceai&utm_medium=card_offer&utm_campaign=priceai_card_shop&utm_content=id-jg4481",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1794155620835",
+          "name": "Ikun",
+          "url": "https://api.ikuncode.ai/wallet",
+          "description": "",
+          "icon": ""
         }
       ]
     },
