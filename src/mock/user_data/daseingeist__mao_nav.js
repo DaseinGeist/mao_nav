@@ -89,6 +89,13 @@ export const mockData = {
           "url": "https://api.ikuncode.ai/wallet",
           "description": "",
           "icon": "https://i.mji.rip/2026/02/13/89608547b83c501429c0b258de08257b.jpeg"
+        },
+        {
+          "id": "site-1794501341889",
+          "name": "Nexttodo",
+          "url": "https://nexttodo.geist.qzz.io/",
+          "description": "",
+          "icon": "https://github.com/JunieXD/NextTodo/raw/main/apps/web/public/icon.svg"
         }
       ]
     },
